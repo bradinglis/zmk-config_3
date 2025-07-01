@@ -68,7 +68,7 @@
   &kp LCTRL &hml LGUI A &hml LALT S &hml LCTL D &hml LSHFT F &kp G      &kp H &hmr RSHFT J  &hmr RCTL K  &hmr RALT L   &hmr RGUI SEMI &kp SQT
   &kp LSHFT &kp Z       &kp X       &kp C       &kp V        &kp B      &kp N &kp M         &kp COMMA    &kp DOT       &kp FSLH       &kp ESC
                         &kp DEL     &ltl 4 RET  &kp ESC                       &ltr 2 BSPC   &ltr 1 SPC   &ltr 3 TAB
-                        >;``
+                        >;
                 };
                 num_layer {
                         display-name = "NUM";
