@@ -44,7 +44,7 @@ layers:
   - {t: SPC, h: NUM}
   - 3 TAB
   NUM:
-  - {t: ▽, type: trans}
+  - '&studio_unlock'
   - '['
   - '7'
   - '8'
